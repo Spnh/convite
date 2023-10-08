@@ -82,8 +82,8 @@ html{
 	border-radius: 25px;
 	background-color: transparent;
 	background-image: url("jessie.jpeg");
+	background-size: auto;
 
-	background-size: contain;
 
 }
 .transparente{
